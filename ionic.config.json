@@ -1,6 +1,8 @@
 {
   "name": "BiometricDemoApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "ac665d95"
 }
